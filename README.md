@@ -25,3 +25,5 @@
 
 Latest update: theme reverted to blue, black and white, and the site/admin logo was replaced with the uploaded Elite Motors logo.
 Primary dealership contact: 6374173517 (tel:+916374173517; WhatsApp +916374173517).
+
+Contact numbers: primary 6374173517 (calls and WhatsApp), secondary 6385449844 (calls).
