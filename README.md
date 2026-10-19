@@ -27,3 +27,6 @@ Latest update: theme reverted to blue, black and white, and the site/admin logo 
 Primary dealership contact: 6374173517 (tel:+916374173517; WhatsApp +916374173517).
 
 Contact numbers: primary 6374173517 (calls and WhatsApp), secondary 6385449844 (calls).
+
+
+Logo fix: header and footer use a larger logo with embedded WebP in both HTML files. The logo works even if only HTML is uploaded; an optimized assets/elite-motors-logo.webp is included too.
